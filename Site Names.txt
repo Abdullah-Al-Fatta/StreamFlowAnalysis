@@ -1,0 +1,13 @@
+U01	06719840	Little Dry Creek - Westminster
+U02	06719845	Little Dry Creek - Federal
+U03	06719560	Lena Gulch - Lakewood
+U04	06711770	Dry Gulch - Denver
+U05	06711780	Lakewood Gulch - Denver
+U06	06711618	Weir Gulch - Denver
+U07	06711575	Harvard Gulch - Harvard Park
+U08	06711570	Harvard Gulch - Colorado
+U09	06711555	Little Dry Creek - Englewood
+U10	06709910	Dutch Creek - Littleton
+U11	06709740	Lee Gulch - Littleton
+U12	06711515	Little Dry Creek - Arapahoe
+U13	06710150	Big Dry Creek - Highlands Ranch
